@@ -1,4 +1,6 @@
 # Code_Crack
+A simple code cracking game.
+
 Welcome to crack the code!
 Your goal is to crack the code before the time runs out.
 You will have to crack a 4 digit code in under a set amount of time!
